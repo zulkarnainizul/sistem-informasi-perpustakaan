@@ -4,9 +4,6 @@ Sistem Informasi Perpustakaan
 
 Sistem Informasi Perpustakaan adalah aplikasi berbasis web yang dibangun menggunakan framework **CodeIgniter 3**. Proyek ini merupakan tugas **semester 2** untuk mata kuliah **Workshop Pengembangan Web**. Aplikasi ini dirancang untuk memudahkan manajemen data perpustakaan, seperti data anggota, buku, peminjaman, dan pengembalian.
 
-.. image:: https://i.imgur.com/your-image-url.png
-   :alt: Tampilan Dashboard Sistem Informasi Perpustakaan
-
 .. raw:: html
 
    <br />
