@@ -27,8 +27,8 @@ Persyaratan Sistem
 Untuk menjalankan proyek ini, pastikan Anda memiliki lingkungan server lokal dengan konfigurasi berikut:
 
 -   **Web Server:** Apache
--   **PHP:** Versi 5.6 atau lebih tinggi
--   **Database:** MySQL atau MariaDB
+-   **PHP:** Versi 8.0
+-   **Database:** MySQL
 -   **Framework:** CodeIgniter 3
 
 .. raw:: html
